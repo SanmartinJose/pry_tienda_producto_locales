@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210897478481",
+    "project_id": "tienda-emprendimientos",
+    "storage_bucket": "tienda-emprendimientos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210897478481:android:0f81069c9dc612a974e970",
+        "android_client_info": {
+          "package_name": "com.ejemplo.tienda_emprendimientos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTdawX7Zue7hbB7BTYUkLiQy7DLMaeJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210897478481:android:506fa6296fdd409574e970",
+        "android_client_info": {
+          "package_name": "com.example.pry_tienda_productos_locales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTdawX7Zue7hbB7BTYUkLiQy7DLMaeJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,10 @@
+buildscript {
+    dependencies {
+        classpath 'com.google.gms:google-services:4.3.15' // versión actual
+        implementation platform('com.google.firebase:firebase-bom:32.3.1')
+
+    }
+}
 plugins {
     id("com.android.application")
     id("kotlin-android")
@@ -42,3 +49,4 @@ android {
 flutter {
     source = "../.."
 }
+apply plugin: 'com.google.gms.google-services'
